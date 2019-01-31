@@ -8,6 +8,9 @@ Trained Examples at -> https://github.com/akanimax/pro_gan_pytorch-examples
 # :star: [New] Pretrained Models:
 Please find the pretrained models under the `saved_models/` directory at the [drive_link](https://drive.google.com/drive/folders/1ex27dbFD_4Ycic6P9y3V9i63AvcuAe95)
 
+Also a Google Colab Notebook for (free) GPU accelerated training has been created at [ProGAN Colaboratory Notebook](https://github.com/akanimax/pro_gan_pytorch-examples/blob/master/pro_gan_pytorch_example.ipynb "Colaboratory Notebook")
+Have achieved some great/interesting/awesome results? Post them here in Issue Section / in the Wiki
+
 # :star: [New] Demo:
 <p align="center">
 <img align="center" src ="https://github.com/akanimax/pro_gan_pytorch/blob/master/samples/demo.gif"
